@@ -76,6 +76,3 @@ To keep the repository clean, the `.gitignore` is configured to exclude:
 * Source/Output images (`*.jpg`, `*.jpeg`)
 * Python cache files
 
----
-
-Would you like me to also generate a `requirements.txt` file to go along with this?
