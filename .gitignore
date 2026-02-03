@@ -1,0 +1,22 @@
+# Python environment
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Project specific outputs
+# Ignore all jpgs except for a potential placeholder/sample
+*.jpg
+*.jpeg
+*.png
+
+# Adobe Color Profiles (if you keep them in the project root)
+*.icc
+
+# OS specific files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
