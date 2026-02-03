@@ -1,7 +1,3 @@
-Here is a professional `README.md` tailored for your final code. It highlights the technical precision of the tool, specifically the color profile management and the shadow lift logic.
-
----
-
 # Passport-Print-Gen
 
 A professional-grade Python utility to generate print-ready A4 sheets of passport-sized photos (). This tool is optimized for high-resolution photography workflows (Nikon D850/D5) where color accuracy and shadow detail are critical.
